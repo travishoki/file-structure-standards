@@ -1,16 +1,22 @@
 import React from 'react';
 
-// With index, Connected component
+/* With Index
+------------------------------*/
+// Connected
 import ComponentA from './components/ComponentA';
-
-// With index, Non-connected component
+// Non-connected
 import ComponentB from './components/ComponentB';
 
-// No index, Connected component
+/* No Index
+------------------------------*/
+// Connected
 import ComponentC from './components/ComponentC/ComponentC';
-
-// No index, Non-connected component
+// Non-connected
 import ComponentD from './components/ComponentD/ComponentD';
+
+/* Name all the things!
+------------------------------*/
+import ComponentE from './components/ComponentE/ComponentE';
 
 const App = () => (
   <div className="App">
@@ -18,6 +24,7 @@ const App = () => (
     <ComponentB />
     <ComponentC />
     <ComponentD />
+    <ComponentE />
   </div>
 );
 
