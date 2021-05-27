@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Wrapper } from './ComponentE.styles';
 import { toUpperCase } from './ComponentE.helpers';
-import { TITLE_TEXT } from './ComponentE.constants';
+import { TITLE_TEXT } from './ComponentE.const';
 
 const ComponentE = () => (
   <Wrapper>
