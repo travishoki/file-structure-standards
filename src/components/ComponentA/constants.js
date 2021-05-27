@@ -1,4 +1,4 @@
-export const TITLE_TEXT = 'I am a title';
+export const TITLE_TEXT = 'component A';
 
 export default {
   TITLE_TEXT,
