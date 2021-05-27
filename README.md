@@ -1,4 +1,4 @@
-# React Standards - Less Huge and More Awesome
+# React Standards - File Structure Standards
 
 ## Getting Started with Create React App
 
